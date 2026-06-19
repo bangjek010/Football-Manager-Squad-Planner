@@ -136,21 +136,6 @@ The application loads and runs directly from **`resources/app.asar`**.
 #### Prerequisites
 * **Node.js** (v16+)
 
-#### Modifying & Packaging
-1. Make your code modifications inside the `app_source/` directory.
-2. In the root directory, install dependencies:
-   ```bash
-   npm install
-   ```
-3. Build the packaged `app.asar` archive:
-   ```bash
-   npm run build-asar
-   ```
-4. Run the updated application:
-   ```bash
-   npm start
-   ```
-
 ---
 
 *Built with passion for managers who love the numbers behind the beautiful game.* ⚽
